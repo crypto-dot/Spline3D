@@ -1,2 +1,2 @@
 # Spline3D
-Practice working with Spline to create 3D models inside browsers
+## Simple Project to display the animations and 3D rendering effects of Spline 3D and how to use Spline in a React application.
