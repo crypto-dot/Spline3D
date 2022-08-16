@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Spline3D/static/css/main.3cfff34d.css",
+    "main.js": "/Spline3D/static/js/main.7ce41b19.js",
+    "static/js/232.874f2578.chunk.js": "/Spline3D/static/js/232.874f2578.chunk.js",
+    "static/media/logo.svg": "/Spline3D/static/media/logo.e258c777d2cec1e64b64937202f1e8ec.svg",
+    "static/media/icon-twitter.svg": "/Spline3D/static/media/icon-twitter.1f8af10d7d0f55fb6a77d5e462fcba76.svg",
+    "index.html": "/Spline3D/index.html",
+    "static/media/icon-laptop.svg": "/Spline3D/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
+    "static/media/icon-youtube.svg": "/Spline3D/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
+    "main.3cfff34d.css.map": "/Spline3D/static/css/main.3cfff34d.css.map",
+    "main.7ce41b19.js.map": "/Spline3D/static/js/main.7ce41b19.js.map",
+    "232.874f2578.chunk.js.map": "/Spline3D/static/js/232.874f2578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cfff34d.css",
+    "static/js/main.7ce41b19.js"
+  ]
+}
